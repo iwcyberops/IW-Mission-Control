@@ -1,4 +1,4 @@
-# 🛡️ IW Mission Control (0x01999922)
+# 🛡️ IW Mission Control 
 
 Welcome to the command center of **IW Cyber Ops**. This repository serves as the central hub for a comprehensive long-term research initiative, transitioning from absolute computational foundations to advanced vulnerability research.
 

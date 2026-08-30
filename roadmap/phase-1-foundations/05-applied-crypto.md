@@ -58,3 +58,5 @@
 > **🔍 Root Cause:** Code compiled without Position-Independent Code (PIC) flags cannot be linked into a shared library on 64-bit architectures.
 > 
 > **✅ Fix:** Compile all shared library object files with the `-fPIC` compiler flag.
+
+<!-- end of month 5 - IW Cyber Ops - -->

@@ -59,3 +59,4 @@
 > **🔍 Root Cause:** Modern bash automatically drops SUID privileges and reverts to the real UID when invoked.
 > 
 > **✅ Fix:** Pass the `-p` flag to bash (`bash -p`) to prevent it from resetting effective SUID privileges.
+

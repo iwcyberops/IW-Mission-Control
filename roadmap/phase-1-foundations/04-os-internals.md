@@ -1,5 +1,6 @@
 <!-- 🚩 FLAG: This is Month 4 of the IW Cyber Ops roadmap. -->
 
+
 # 🛡️ Phase I: Foundations & Systems Architecture (M1–M8)
 
 ## 📅 Month 4: OS Internals, Virtual Memory, Process Management & C Memory
@@ -58,3 +59,5 @@
 > **🔍 Root Cause:** Attempting to write to read-only memory segments (e.g., string literal in `.rodata`) or accessing unmapped virtual pages.
 > 
 > **✅ Fix:** Allocate modifiable heap memory using `malloc()` or allocate stack arrays, and verify pointer bounds with GDB.
+
+<!-- end of month 4 -Iw Cyber Ops- -->

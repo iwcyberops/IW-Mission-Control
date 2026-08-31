@@ -1,0 +1,68 @@
+# 📈 Daily Research & Execution Log — IW Cyber Ops
+
+> **System Operator:** Muhammad Imran (`@iwcyberops`)  
+> **Mission:** 42-Month Apex Hacker & Vulnerability Research Blueprint (12 Hours/Day Engine)
+
+---
+
+## 📊 Live Progress Tracker
+
+| Metric | Current Status |
+| :--- | :--- |
+| **Current Phase** | Phase 01: Foundations & Systems Architecture |
+| **Current Month** | Month 01: Linux Kernel Interface, Shell & Git |
+| **Current Day** | Day 001 / 1260 |
+| **Current Streak** | 🔥 1 Day |
+| **Active Project** | Automated Lab Deployment Engine |
+
+---
+
+<!-- 
+👉 INSTRUCTIONS:
+1. Har roz is block ko copy karein aur "Daily Logs" heading ke theek neeche paste karein (Newest on Top).
+2. Date, Day number, aur har block me apne us din ke exact topics/commands/tools likhein.
+-->
+<!--
+### 🗓️ [YYYY-MM-DD] — Day [XXX] | Month [XX] / Phase [XX]
+* **Daily Goal:** *[Aaj ka main target kya tha?]*
+* **Total Dedicated Hours:** `12.0 Hours`
+* **Daily Status:** ✅ Completed / 🟡 In Progress / 🔴 Blocked
+
+| Time Allocation | Cognitive Block | Focus & Execution Details |
+| :--- | :--- | :--- |
+| **4.0 Hours** | **Block 1: Core Domain** | *[Core subject par kya padha? E.g., Linux FHS, Process Model, Syscalls]* |
+| **1.0 Hour** | **Block 2: Systems C/C++** | *[C/C++ me kya code likha? E.g., Pointer arithmetic, Linked list implementation]* |
+| **1.0 Hour** | **Block 3: Assembly / RE** | *[Assembly me kya reverse kiya? E.g., x86-64 GPRs, mov/lea instructions]* |
+| **1.0 Hour** | **Block 4: Hardware / Arch** | *[Hardware me kya study kiya? E.g., Ohm's law, Logic gates inside Logisim]* |
+| **3.0 Hours** | **Block 5: Lab Engineering** | *[Lab me kya build ya exploit kiya? E.g., VMware dual-NIC setup, Bandit 1-15]* |
+| **1.0 Hour** | **Block 6: Source Archaeology / Reading** | *[Kaunsa man page / RFC / CVE padha? E.g., man 2 fork, man 5 sudoers]* |
+| **1.0 Hour** | **Block 7: Documentation** | *[Kya note kiya? E.g., Updated research journal, drew architecture diagram]* |
+
+* **🚧 Roadblock Encountered:** *[Agar koi error aaya to kya tha? E.g., SUID script permission drop]*
+* **💡 Exact Fix / Learning:** *[Us error ko kaise solve kiya? E.g., Used C wrapper with setuid(0)]*
+* **🔗 Relevant Commits / Proof:** *[Git commit hash ya note file ka link]*
+-->
+---
+
+## 📜 Daily Execution Logs
+
+### 🗓️ 2026-09-01 — Day 001 | Month 01 / Phase 01
+* **Daily Goal:** Initialize research repository, master Linux process signals, and begin C pointer fundamentals.
+* **Total Dedicated Hours:** `12.0 Hours`
+* **Daily Status:** ✅ Completed
+
+| Time Allocation | Cognitive Block | Focus & Execution Details |
+| :--- | :--- | :--- |
+| **8.0 Hours** | **Block 1: Core Domain** | Studied Linux FHS directory permissions (`/etc`, `/proc`, `/sys`), process lifecycle, and standard signals (`SIGTERM`, `SIGKILL`, `SIGSEGV`). |
+| **1.0 Hour** | **Block 3: Systems C** | Wrote basic C programs practicing compilation stages: `gcc -E`, `gcc -S`, `gcc -c`, and `gcc -o`. Analyzed preprocessed output. |
+| **1.0 Hour** | **Block 4: Assembly / RE** | Studied x86-64 General Purpose Registers (`RAX`, `RBX`, `RCX`, `RDX`, `RSI`, `RDI`, `RSP`, `RBP`) and register sizes (`rax` -> `eax` -> `ax` -> `al`). |
+| **1.0 Hour** | **Block 5: Hardware / Arch** | Reviewed Ohm’s Law, Kirchhoff’s Current/Voltage Laws, and built basic AND/OR/XOR gates in Logisim. |
+| **1.0 Hour** | **Block 6: Documentation** | Documented Linux process memory layout diagrams in Markdown journal; committed to Git. |
+| **1.0 Hour** | **Block 7: Communication** | Documented Linux process memory layout diagrams in Markdown journal; committed to Git. |
+
+
+* **🚧 Roadblock Encountered:** Shell script with SUID bit did not escalate privileges when executed by non-root user.
+* **💡 Exact Fix / Learning:** Linux kernels ignore SUID permissions on interpreted scripts; built a small compiled C wrapper calling `setuid(0)` and `execve()`.
+* **🔗 Relevant Commits / Proof:** Commit `b4e1a09` — Added process monitoring script and lab notes.
+
+---

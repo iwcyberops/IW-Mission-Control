@@ -47,22 +47,16 @@
 ## 📜 Daily Execution Logs
 
 ### 🗓️ 2026-09-01 — Day 001 | Month 01 / Phase 01
-* **Daily Goal:** Initialize research repository, master Linux process signals, and begin C pointer fundamentals.
-* **Total Dedicated Hours:** `12.0 Hours`
+* **Total Dedicated Hours:** `11.0 Hours`
 * **Daily Status:** ✅ Completed
 
 | Time Allocation | Cognitive Block | Focus & Execution Details |
 | :--- | :--- | :--- |
-| **8.0 Hours** | **Block 1: Core Domain** | Studied Linux FHS directory permissions (`/etc`, `/proc`, `/sys`), process lifecycle, and standard signals (`SIGTERM`, `SIGKILL`, `SIGSEGV`). |
-| **1.0 Hour** | **Block 3: Systems C** | Wrote basic C programs practicing compilation stages: `gcc -E`, `gcc -S`, `gcc -c`, and `gcc -o`. Analyzed preprocessed output. |
-| **1.0 Hour** | **Block 4: Assembly / RE** | Studied x86-64 General Purpose Registers (`RAX`, `RBX`, `RCX`, `RDX`, `RSI`, `RDI`, `RSP`, `RBP`) and register sizes (`rax` -> `eax` -> `ax` -> `al`). |
-| **1.0 Hour** | **Block 5: Hardware / Arch** | Reviewed Ohm’s Law, Kirchhoff’s Current/Voltage Laws, and built basic AND/OR/XOR gates in Logisim. |
-| **1.0 Hour** | **Block 6: Documentation** | Documented Linux process memory layout diagrams in Markdown journal; committed to Git. |
-| **1.0 Hour** | **Block 7: Communication** | Documented Linux process memory layout diagrams in Markdown journal; committed to Git. |
+| **6.0 Hours** | **Block 1: Core Domain** | Studied Linux FHS directory permissions (`/etc`, `/proc`, `/sys`), process lifecycle. Basic Linux commands. The Linux Command Line Book Chapter 1,2,3,4. |
+| **1.0 Hour** | **Block 3: Systems C** | Wrote basic C programs practicing compilation stages: `gcc` and learned sizes of different data types. Analyzed preprocessed output. |
+| **1.0 Hour** | **Block 4: Assembly / RE** | Studies how assembly works and for what it is used. Covered introduction and workflow of assembly. |
+| **1.0 Hour** | **Block 5: Hardware / Arch** | Watchet tutorial about Resistors introduction and how they work. Studies about some basic concepts about hardware. |
+| **1.0 Hour** | **Block 6: Documentation** | Documented Linux basic Commands and File-System hierarchy with diagrams; committed to Git. |
+| **1.0 Hour** | **Block 7: Communication and Typing** | Practiced Typing on typingclub.com site and Watched some Short Video of John Hammond and tried to speak like him. |
 
 
-* **🚧 Roadblock Encountered:** Shell script with SUID bit did not escalate privileges when executed by non-root user.
-* **💡 Exact Fix / Learning:** Linux kernels ignore SUID permissions on interpreted scripts; built a small compiled C wrapper calling `setuid(0)` and `execve()`.
-* **🔗 Relevant Commits / Proof:** Commit `b4e1a09` — Added process monitoring script and lab notes.
-
----

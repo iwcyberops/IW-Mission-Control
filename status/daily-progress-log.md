@@ -57,7 +57,7 @@
 | **1.0 Hour** | **Block 3: Assembly / RE** | Studies how assembly works and why it is used? Studied about Heap, Stack and General Purpose Registers like (`RAX`, `RBX`, `RCX`, `RDX`, `RSI`, `RDI` etc). |
 | **1.0 Hour** | **Block 4: Documentation** | Documented File Operational Commands and Navigation in Linux through Commands; committed to Git. |
 | **2.0 Hours** | **Block 5: Bandit Labs** | Solved Bandit War Game's Level 5 to 8 with research and learned new things in it. |
-| **1.0 Hour** | **Block 6: Communication and Typing** | Practiced Typing on typingclub.com site > Speed(). Watched some Short Ted Talks. |
+| **1.0 Hour** | **Block 6: Communication and Typing** | Practiced Typing on typingclub.com site > Speed(40wpm) Acc(94%). Watched some Short Ted Talks. |
 
 ---
 

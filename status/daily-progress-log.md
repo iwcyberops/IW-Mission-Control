@@ -11,8 +11,8 @@
 | :--- | :--- |
 | **Current Phase** | Phase 01: Foundations & Systems Architecture |
 | **Current Month** | Month 01: Linux Kernel Interface, Shell & Git |
-| **Current Day** | Day 001 / 1260 |
-| **Current Streak** | 🔥 1 Day |
+| **Current Day** | Day 002 / 1260 |
+| **Current Streak** | 🔥 2 Day |
 | **Active Project** | Automated Lab Deployment Engine |
 
 ---

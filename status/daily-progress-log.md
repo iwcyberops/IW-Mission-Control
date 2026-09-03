@@ -46,17 +46,33 @@
 
 ## 📜 Daily Execution Logs
 
+### 🗓️ 2026-09-02 — Day 002 | Month 01 / Phase 01
+* **Total Dedicated Hours:** `13.0 Hours`
+* **Daily Status:** ✅ Completed
+
+| Time Allocation | Cognitive Block | Focus & Execution Details |
+| :--- | :--- | :--- |
+| **6.0 Hours** | **Block 1: Core Domain** | Readed The Linux Command Line book Chapter 5 to 8. Covered Navigation and files processing Commands and practice them in detail using AI. |
+| **2.0 Hours** | **Block 2: Systems C** | Learned sizes of different data types. Covered some Basics in C language. Learned about Operators and Operands and some strange behaviours of C while working with data types. |
+| **1.0 Hour** | **Block 3: Assembly / RE** | Studies how assembly works and why it is used? Studied about Heap, Stack and General Purpose Registers like (`RAX`, `RBX`, `RCX`, `RDX`, `RSI`, `RDI` etc). |
+| **1.0 Hour** | **Block 4: Documentation** | Documented File Operational Commands and Navigation in Linux through Commands; committed to Git. |
+| **2.0 Hours** | **Block 5: Bandit Labs** | Solved Bandit War Game's Level 5 to 8 with research and learned new things in it. |
+| **1.0 Hour** | **Block 6: Communication and Typing** | Practiced Typing on typingclub.com site > Speed(). Watched some Short Ted Talks. |
+
+---
+
 ### 🗓️ 2026-09-01 — Day 001 | Month 01 / Phase 01
-* **Total Dedicated Hours:** `11.0 Hours`
+* **Total Dedicated Hours:** `12.0 Hours`
 * **Daily Status:** ✅ Completed
 
 | Time Allocation | Cognitive Block | Focus & Execution Details |
 | :--- | :--- | :--- |
 | **6.0 Hours** | **Block 1: Core Domain** | Studied Linux FHS directory permissions (`/etc`, `/proc`, `/sys`), process lifecycle. Basic Linux commands. The Linux Command Line Book Chapter 1,2,3,4. |
-| **1.0 Hour** | **Block 3: Systems C** | Wrote basic C programs practicing compilation stages: `gcc` and learned sizes of different data types. Analyzed preprocessed output. |
-| **1.0 Hour** | **Block 4: Assembly / RE** | Studies how assembly works and for what it is used. Covered introduction and workflow of assembly. |
-| **1.0 Hour** | **Block 5: Hardware / Arch** | Watchet tutorial about Resistors introduction and how they work. Studies about some basic concepts about hardware. |
-| **1.0 Hour** | **Block 6: Documentation** | Documented Linux basic Commands and File-System hierarchy with diagrams; committed to Git. |
-| **1.0 Hour** | **Block 7: Communication and Typing** | Practiced Typing on typingclub.com site and Watched some Short Video of John Hammond and tried to speak like him. |
+| **1.0 Hour** | **Block 2: Systems C** | Wrote basic C programs practicing compilation stages: `gcc` and learned sizes of different data types. Analyzed preprocessed output. |
+| **1.0 Hour** | **Block 3: Assembly / RE** | Studies how assembly works and for what it is used. Covered introduction and workflow of assembly. |
+| **1.0 Hour** | **Block 4: Hardware / Arch** | Watchet tutorial about Resistors introduction and how they work. Studies about some basic concepts about hardware. |
+| **1.0 Hour** | **Block 5: Documentation** | Documented Linux basic Commands and File-System hierarchy with diagrams; committed to Git. |
+| **2.0 Hours** | **Block 5: Bandit Labs** | Solved Bandit War Game Levels 1 to 4. |
+| **1.0 Hour** | **Block 6: Communication and Typing** | Practiced Typing on typingclub.com site and Watched some Short Video of John Hammond and tried to speak like him. |
 
 

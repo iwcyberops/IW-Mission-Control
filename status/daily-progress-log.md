@@ -11,8 +11,8 @@
 | :--- | :--- |
 | **Current Phase** | Phase 01: Foundations & Systems Architecture |
 | **Current Month** | Month 01: Linux Kernel Interface, Shell & Git |
-| **Current Day** | Day 002 / 1260 |
-| **Current Streak** | 🔥 2 Day |
+| **Current Day** | Day 003 / 1260 |
+| **Current Streak** | 🔥 3 Day |
 | **Active Project** | Automated Lab Deployment Engine |
 
 ---
@@ -45,6 +45,22 @@
 ---
 
 ## 📜 Daily Execution Logs
+
+### 🗓️ 2026-09-03 — Day 003 | Month 01 / Phase 01
+* **Total Dedicated Hours:** `10.0 Hours`
+* **Daily Status:** ✅ Completed
+
+| Time Allocation | Cognitive Block | Focus & Execution Details |
+| :--- | :--- | :--- |
+| **4.0 Hours** | **Block 1: Core Domain** | Readed The Linux Command Line book Chapter 9 to 11. Started Linux Essentials course on Cisco Networking Academy and Completed 2 Chapters. |
+| **1.0 Hours** | **Block 2: Systems C** | Understanted to build Complex Logic using `if-else`, `else-if`, `else` & `switch-case` Statements, Relational Operators, Logical-Operators, Operators-Precedence and Turnary-Operator. |
+| **1.0 Hour** | **Block 3: Hardware / RE** | Understand the types of basic Electronic Components and what they do, like `Resistors`, `Capacitors` and some concepts of `AC-DC Current`, `Voltage` etc. |
+| **1.0 Hour** | **Block 4: Documentation** | Documented Process Management Commands and Back-end Working of processes and signals in Linux through Commands; committed to Git. |
+| **2.0 Hours** | **Block 5: Bandit Labs** | Solved Bandit War Game's Level 9 to 11 with research and learned many things in it. |
+| **1.0 Hour** | **Block 6: Communication and Typing** | Practiced Typing on typingclub.com site > Speed(42wpm) Acc(93%). Practiced English Speaking by talking with AI. |
+
+---
+
 
 ### 🗓️ 2026-09-02 — Day 002 | Month 01 / Phase 01
 * **Total Dedicated Hours:** `13.0 Hours`

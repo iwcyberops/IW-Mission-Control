@@ -11,8 +11,8 @@
 | :--- | :--- |
 | **Current Phase** | Phase 01: Foundations & Systems Architecture |
 | **Current Month** | Month 01: Linux Kernel Interface, Shell & Git |
-| **Current Day** | Day 003 / 1260 |
-| **Current Streak** | 🔥 3 Day |
+| **Current Day** | Day 004 / 1260 |
+| **Current Streak** | 🔥 4 Day |
 | **Active Project** | Automated Lab Deployment Engine |
 
 ---
@@ -45,6 +45,21 @@
 ---
 
 ## 📜 Daily Execution Logs
+
+### 🗓️ 2026-09-04 — Day 004 | Month 01 / Phase 01
+* **Total Dedicated Hours:** `11.0 Hours`
+* **Daily Status:** ✅ Completed
+
+| Time Allocation | Cognitive Block | Focus & Execution Details |
+| :--- | :--- | :--- |
+| **5.0 Hours** | **Block 1: Core Domain** | Read The Linux Command Line book Chapter 12 to 14. Started Linux Essentials course on Cisco Networking Academy and Completed 3rd Chapter. Practice redirection and process control commands in linux. |
+| **1.0 Hours** | **Block 2: Systems C** | Understant the Logic and working of loops. `for-loops`, `while-loop` and `do-while-loop`; Difference between `continue` and `break` keywords. |
+| **1.0 Hour** | **Block 3: Assembly / RE** | Learn some types of x64 bit Registers and working of Cache, IR and RSP; how they Store the Addresses and Store Instructions before Execution in General Purpose Registors. |
+| **1.0 Hour** | **Block 4: Documentation** | Documented file redirection logic & commands and logic of /dev/null in Linux. Also studies Standard-Input, Standard-Output and Standard-Error codes and Committed to Git. |
+| **2.0 Hours** | **Block 5: Bandit Labs** | Solved Bandit War Game's Level 12 and 13. Started Difficult levels. |
+| **1.0 Hour** | **Block 6: Communication and Typing** | Practice Typing on monkeytype.com site > Speed(45wpm) Acc(96%). Practiced English Speaking by talking with AI. |
+
+---
 
 ### 🗓️ 2026-09-03 — Day 003 | Month 01 / Phase 01
 * **Total Dedicated Hours:** `10.0 Hours`

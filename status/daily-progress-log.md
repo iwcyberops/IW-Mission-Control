@@ -46,6 +46,21 @@
 
 ## 📜 Daily Execution Logs
 
+### 🗓️ 2026-09-05 — Day 005 | Month 01 / Phase 01
+* **Total Dedicated Hours:** `12.0 Hours`
+* **Daily Status:** ✅ Completed
+
+| Time Allocation | Cognitive Block | Focus & Execution Details |
+| :--- | :--- | :--- |
+| **5.0 Hours** | **Block 1: Core Domain** | Read The Linux Command Line book Chapter 15 and 16. Learn about Package Management & Storage Management and some Shell Commands. |
+| **2.0 Hours** | **Block 2: Systems C** | Build a logic wise first project, an vulnerable hackable number guessing game. I learn to build logic and practiced to code in C. Understaned the flow of code in C and 2 more headers `<time.h>` and `<stdlib.h>`. |
+| **1.0 Hour** | **Block 3: Assembly / RE** | Understand the Difference between 32 and 64bit Processors and Registers. Learn basic flow of instructions running by some processes in Linux. |
+| **1.0 Hour** | **Block 4: Documentation** | Documented all details about how to archive and Compress files in Linux using CLI. I also told about some security issues happens due to archived files & how to avoid them and Committed to Git. |
+| **2.0 Hours** | **Block 5: Bandit Labs** | Solved Bandit War Game's Level 14 and 16. Started Difficult levels. |
+| **1.0 Hour** | **Block 6: Communication and Typing** | Practice Typing on monkeytype.com site > Speed(46wpm) Acc(95%). Practiced English Speaking by talking with AI. |
+
+---
+
 ### 🗓️ 2026-09-04 — Day 004 | Month 01 / Phase 01
 * **Total Dedicated Hours:** `11.0 Hours`
 * **Daily Status:** ✅ Completed

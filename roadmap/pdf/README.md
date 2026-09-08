@@ -22,7 +22,7 @@
 To verify the authenticity of the official release PDF and ensure it has not been altered or tampered with, compare its SHA-256 checksum:
 
 * **File Name:** `iwcyberops-apex-hacker-roadmap-42-months.pdf`
-* **SHA-256 Checksum:** `197f8a0c3c1f7937d0a2f5fed58ccbf3ca9cc6fbe6e88e1b93be274cd7c451bc`
+* **SHA-256 Checksum:** `b66a23d01cd8789f56be53fcdb0427a108727b2b5df7f520d1cc7c9c44e184f5`
 
 ### Verification Commands:
 
@@ -50,4 +50,4 @@ Explore the complete month-by-month breakdown directly in the repository:<br>
 - [📁 Phase 04: Deep Vulnerability Research (M28 – M35)](https://github.com/iwcyberops/IW-Mission-Control/tree/main/roadmap/phase-04-deep-vulnerability-research)
 - [📁 Phase 05: Specialization & Independent Research (M36 – M42)](https://github.com/iwcyberops/IW-Mission-Control/tree/main/roadmap/phase-05-specialization-independent-research)<br><br><br><br>
 ⚠️ Security Disclaimer: All Offensive Exercises must be executed exclusively in owned labs, isolated VMs, or authorized disclosure scopes.
-© Muhammad Imran (IW Cyber Ops)
+© Muhammad Imran (IW Cyber Ops | iwcyberops)

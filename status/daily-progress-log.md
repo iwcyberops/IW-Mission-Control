@@ -11,8 +11,8 @@
 | :--- | :--- |
 | **Current Phase** | Phase 01: Foundations & Systems Architecture |
 | **Current Month** | Month 01: Linux Kernel Interface, Shell & Git |
-| **Current Day** | Day 007 / 1260 |
-| **Current Streak** | 🔥 7 Day |
+| **Current Day** | Day 008 / 1260 |
+| **Current Streak** | 🔥 8 Day |
 | **Active Project** | Automated Lab Deployment Engine |
 
 ---
@@ -45,6 +45,19 @@
 ---
 
 ## 📜 Daily Execution Logs
+
+### 🗓️ 2026-09-08 — Day 008 | Month 01 / Phase 01
+* **Total Dedicated Hours:** `11.0 Hours`
+* **Daily Status:** ✅ Completed
+
+| Time Allocation | Cognitive Block | Focus & Execution Details |
+| :--- | :--- | :--- |
+| **5.0 Hours** | **Block 1: Core Domain** | Mastered Linux User & Group IAM architecture, sudoers privilege delegation, collaborative SGID directory permissions, and systemd daemon lifecycle management. TLCL Book Chapter 20. |
+| **2.0 Hour** | **Block 2: Documentation** | Documented all details about Files & Directories Permissions and Special Permissions and How to manage services on Linux. Practice some use cases of Special bits in Privilege Escalation and Committed to Git. |
+| **3.0 Hours** | **Block 3: Bandit Labs** | Solved Bandit War Game's Level 21 to 25. Also Documented on github IW-Core-Tracks repository. |
+| **1.0 Hour** | **Block 4: Communication and Typing** | Practice Typing on typingclub.com site > Speed(47wpm). Practiced English Communication by talking with AI. |
+
+---
 
 ### 🗓️ 2026-09-07 — Day 007 | Month 01 / Phase 01
 * **Total Dedicated Hours:** `12.0 Hours`

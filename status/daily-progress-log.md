@@ -11,8 +11,8 @@
 | :--- | :--- |
 | **Current Phase** | Phase 01: Foundations & Systems Architecture |
 | **Current Month** | Month 01: Linux Kernel Interface, Shell & Git |
-| **Current Day** | Day 010 / 1260 |
-| **Current Streak** | 🔥 10 Day |
+| **Current Day** | Day 014 / 1260 |
+| **Current Streak** | 🔥 14 Day |
 | **Active Project** | Automated Lab Deployment Engine |
 
 ---
@@ -45,6 +45,49 @@
 ---
 
 ## 📜 Daily Execution Logs
+
+### 🗓️ 2026-09-14 — Day 014 | Month 01 / Phase 01
+* **Total Dedicated Hours:** `4.0`
+* **Daily Status:** ❌ Incomplete **No Internet**
+
+| Time Allocation | Cognitive Block | Focus & Execution Details |
+| :--- | :--- | :--- |
+| **4.0 Hours** | **Block 1: Linux Commands** | Revised Commands and Practice Offine. |
+| **1.0 Hour** | **Block 4: Documentation** | Documented Linux Notes and Psychology book notes. |
+
+---
+
+### 🗓️ 2026-09-13 — Day 013 | Month 01 / Phase 01
+* **Total Dedicated Hours:** `3.0`
+* **Daily Status:** ❌ Incomplete **No Internet**
+
+| Time Allocation | Cognitive Block | Focus & Execution Details |
+| :--- | :--- | :--- |
+| **3.0 Hours** | **Block 1: Linux Notes** | Revised Previous notes. |
+
+---
+
+### 🗓️ 2026-09-12 — Day 012 | Month 01 / Phase 01
+* **Total Dedicated Hours:** `5.0`
+* **Daily Status:** ❌ Incomplete **No Internet**
+
+| Time Allocation | Cognitive Block | Focus & Execution Details |
+| :--- | :--- | :--- |
+| **4.0 Hours** | **Block 1: Shell Scripting** | Basic shell scripting & basic commands practiced Offline |
+| **1.0 Hour** | **Block 4: Documentation** | Documented Linux notes and Laws of human nature book's notes. |
+
+---
+
+### 🗓️ 2026-09-11 — Day 011 | Month 01 / Phase 01
+* **Total Dedicated Hours:** `6.0`
+* **Daily Status:** ❌ Incomplete **No Internet**
+
+| Time Allocation | Cognitive Block | Focus & Execution Details |
+| :--- | :--- | :--- |
+| **5.0 Hours** | **Block 1: Shell Scripting** | TLCL Book 2 chapters and Practiced commands and basic scripting offline. |
+| **1.0 Hour** | **Block 4: Documentation** | Documented Linux notes and Laws of human nature book's notes. |
+
+---
 
 ### 🗓️ 2026-09-10 — Day 010 | Month 01 / Phase 01
 * **Total Dedicated Hours:** `12.0 Hours`

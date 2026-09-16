@@ -11,8 +11,8 @@
 | :--- | :--- |
 | **Current Phase** | Phase 01: Foundations & Systems Architecture |
 | **Current Month** | Month 01: Linux Kernel Interface, Shell & Git |
-| **Current Day** | Day 014 / 1260 |
-| **Current Streak** | 🔥 14 Day |
+| **Current Day** | Day 015 / 1260 |
+| **Current Streak** | 🔥 15 Day |
 | **Active Project** | Automated Lab Deployment Engine |
 
 ---
@@ -45,6 +45,20 @@
 ---
 
 ## 📜 Daily Execution Logs
+
+### 🗓️ 2026-09-15 — Day 015 | Month 01 / Phase 01
+* **Total Dedicated Hours:** `12.0 Hours`
+* **Daily Status:** ✅ Completed
+
+| Time Allocation | Cognitive Block | Focus & Execution Details |
+| :--- | :--- | :--- |
+| **5.0 Hours** | **Block 1: Shell Scripting** | Shell Scripting and Studied TLCL Book. Shell Basics practiced from AI. |
+| **1.0 Hour** | **Block 2: C-Programming** | Learned about pointers in C. |
+| **4.0 Hours** | **Block 3: Bandit Labs** | Solved Leviathan level 1,2 and 3. |
+| **1.0 Hour** | **Block 4: Documentation** | Documented C pointers and Shell scripting notes in IW-Knowledge-Base repo. Committed to Git. |
+| **1.0 Hour** | **Block 5: Communication and Typing** | Practice Typing on typingclub.com site. Practiced English Communication by talking with AI. |
+
+---
 
 ### 🗓️ 2026-09-14 — Day 014 | Month 01 / Phase 01
 * **Total Dedicated Hours:** `4.0`

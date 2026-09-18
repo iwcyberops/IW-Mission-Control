@@ -54,7 +54,7 @@
 | :--- | :--- | :--- |
 | **3.0 Hours** | **Block 1: Shell Scripting** | Shell scripting basics > Chatgpt. |
 | **2.0 Hour** | **Block 2: C-Programming** | Learned Some Functions in C Programming. |
-| **3.0 Hours** | **Block 3: OverTheWire** | Try to Solve Leviathan level 6-7 but not completed. |
+| **3.0 Hours** | **Block 3: OverTheWire** | Try to Solve Leviathan level 6-7 but not completed yet. |
 | **1.0 Hour** | **Block 4: Documentation** | Documented C and Shell scripting notes. Committed to Git. |
 | **1.0 Hour** | **Block 5: Communication and Typing** | Practice Typing on typingclub.com site. Practiced English Communication by talking with AI. |
 

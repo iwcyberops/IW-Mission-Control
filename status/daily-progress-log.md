@@ -11,8 +11,8 @@
 | :--- | :--- |
 | **Current Phase** | Phase 01: Foundations & Systems Architecture |
 | **Current Month** | Month 01: Linux Kernel Interface, Shell & Git |
-| **Current Day** | Day 017 / 1260 |
-| **Current Streak** | 🔥 17 Day |
+| **Current Day** | Day 018 / 1260 |
+| **Current Streak** | 🔥 18 Day |
 | **Active Project** | Automated Lab Deployment Engine |
 
 ---
@@ -45,6 +45,20 @@
 ---
 
 ## 📜 Daily Execution Logs
+
+### 🗓️ 2026-09-18 — Day 018 | Month 01 / Phase 01
+* **Total Dedicated Hours:** `09.0 Hours`
+* **Daily Status:** ✅ Completed
+
+| Time Allocation | Cognitive Block | Focus & Execution Details |
+| :--- | :--- | :--- |
+| **3.0 Hours** | **Block 1: Shell Scripting** | Shell scripting > Chatgpt. |
+| **2.0 Hour** | **Block 2: C-Programming** | Understood Scoping in C Programming. |
+| **2.0 Hours** | **Block 3: Assembly & Sys-Internals** | Learned Assembly basic registers and their working with instructions. |
+| **1.0 Hour** | **Block 4: Documentation** | Documented C and Shell scripting notes. Committed to Git. |
+| **1.0 Hour** | **Block 5: Communication and Typing** | Practice Typing on typingclub.com site. Practiced English Communication by talking with AI. |
+
+---
 
 ### 🗓️ 2026-09-17 — Day 017 | Month 01 / Phase 01
 * **Total Dedicated Hours:** `10.0 Hours`

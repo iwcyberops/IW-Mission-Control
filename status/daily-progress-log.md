@@ -57,7 +57,7 @@
 | **2.0 Hour** | **Block 3: Cisco Academy Linux Exam** | Complete Linux Essentials Exam on Cisco Networking Academy and Earned Certificate. |
 | **1.0 Hour** | **Block 4: Cisco Academy HTML Exam** | Complete HTML Essentials Exam on Cisco Networking Academy and Earned Certificate. |
 | **1.0 Hour** | **Block 5: Documentation** | Documented C and Shell scripting notes. Committed to Git. |
-| **1.0 Hour** | **Block 6: Communication and Typing** | Practice Typing on typingclub.com site. Practiced English Communication. |
+| **1.0 Hour** | **Block 6: Communication and Typing** | Practice Typing on monkeytype.com site. Practiced English Communication with AI. |
 
 ---
 

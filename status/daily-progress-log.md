@@ -11,8 +11,8 @@
 | :--- | :--- |
 | **Current Phase** | Phase 01: Foundations & Systems Architecture |
 | **Current Month** | Month 01: Linux Kernel Interface, Shell & Git |
-| **Current Day** | Day 020 / 1260 |
-| **Current Streak** | 🔥 20 Day |
+| **Current Day** | Day 021 / 1260 |
+| **Current Streak** | 🔥 21 Day |
 | **Active Project** | Automated Lab Deployment Engine |
 
 ---
@@ -46,17 +46,31 @@
 
 ## 📜 Daily Execution Logs
 
+### 🗓️ 2026-09-21/22 — Day 021 | Month 01 / Phase 01
+* **Total Dedicated Hours:** `11.0 Hours`
+* **Daily Status:** ✅ Completed
+
+| Time Allocation | Cognitive Block | Focus & Execution Details |
+| :--- | :--- | :--- |
+| **4.0 Hours** | **Block 1: Shell Scripting** | Shell scripting > Chatgpt. |
+| **2.0 Hour** | **Block 2: C-Programming** | Learned Strings in C Programming. |
+| **2.0 Hour** | **Block 3: Cisco Academy Linux Exam** | Complete Linux Essentials Exam on Cisco Networking Academy and Earned Certificate. |
+| **1.0 Hour** | **Block 4: Cisco Academy HTML Exam** | Complete HTML Essentials Exam on Cisco Networking Academy and Earned Certificate. |
+| **1.0 Hour** | **Block 5: Documentation** | Documented C and Shell scripting notes. Committed to Git. |
+| **1.0 Hour** | **Block 6: Communication and Typing** | Practice Typing on typingclub.com site. Practiced English Communication. |
+
+---
+
 ### 🗓️ 2026-09-20 — Day 020 | Month 01 / Phase 01
 * **Total Dedicated Hours:** `10.0 Hours`
 * **Daily Status:** ✅ System Maintenance Complete.
 * **$\color{orange}{\textbf{Sunday}}$ -- Maintenance, Notes, Rivision & Preparation**
 
-
 | Time Allocation | Cognitive Block | Focus & Execution Details |
 | :--- | :--- | :--- |
 | **4.0 Hour** | **Block 1: Shell Scripting:** | Learned Shell scripting > AI. |
-| **5.0 Hour** | **Block 1: Main Objective:** | System synchronization, notes, documentation, git and digital footprint expansion. Posts/Articles for Social Accounts.  |
-| **1.0 Hour** | **Block 2: Communication and Typing** | Typing Practice & Test. Practiced English Speaking > AI. |
+| **5.0 Hour** | **Block 2: Main Objective:** | System synchronization, notes, documentation, git and digital footprint expansion. Posts/Articles for Social Accounts.  |
+| **1.0 Hour** | **Block 3: Communication and Typing** | Typing Practice & Test. Practiced English Speaking > AI. |
 
 ---
 
@@ -137,7 +151,7 @@
 | Time Allocation | Cognitive Block | Focus & Execution Details |
 | :--- | :--- | :--- |
 | **4.0 Hours** | **Block 1: Linux Commands** | Revised Commands and Practice Offine. |
-| **1.0 Hour** | **Block 4: Documentation** | Documented Linux Notes and Psychology book notes. |
+| **1.0 Hour** | **Block 2: Documentation** | Documented Linux Notes and Psychology book notes. |
 
 ---
 
@@ -158,7 +172,7 @@
 | Time Allocation | Cognitive Block | Focus & Execution Details |
 | :--- | :--- | :--- |
 | **4.0 Hours** | **Block 1: Shell Scripting** | Basic shell scripting & basic commands practiced Offline |
-| **1.0 Hour** | **Block 4: Documentation** | Documented Linux notes and Laws of human nature book's notes. |
+| **1.0 Hour** | **Block 2: Documentation** | Documented Linux notes and Laws of human nature book's notes. |
 
 ---
 
@@ -169,7 +183,7 @@
 | Time Allocation | Cognitive Block | Focus & Execution Details |
 | :--- | :--- | :--- |
 | **5.0 Hours** | **Block 1: Shell Scripting** | TLCL Book 2 chapters and Practiced commands and basic scripting offline. |
-| **1.0 Hour** | **Block 4: Documentation** | Documented Linux notes and Laws of human nature book's notes. |
+| **1.0 Hour** | **Block 2: Documentation** | Documented Linux notes and Laws of human nature book's notes. |
 
 ---
 

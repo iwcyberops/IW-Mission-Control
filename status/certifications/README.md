@@ -34,9 +34,9 @@ Every credential documented in this ledger is aligned with a specific operationa
       <sub>Cisco Networking Academy</sub><br>
       <img src="https://img.shields.io/badge/STATUS-VERIFIED-00ff41?style=flat-square" />
     </td>
-
-    <!-- BADGE 02: CISCO HTML / WEB FOUNDATIONS -->
-    <td align="center" width="220" valign="top">
+    
+        <!-- BADGE 02: CISCO HTML / WEB FOUNDATIONS -->    
+  <td align="center" width="220" valign="top">
       <a href="./pdfs/cisco-html-essentials.pdf">
         <img src="./badges/cisco-html-essentials.png" width="140" height="140" alt="Cisco HTML Essentials Badge" style="border-radius: 12px; transition: transform .2s;" />
       </a>
@@ -76,46 +76,6 @@ Every credential documented in this ledger is aligned with a specific operationa
 
 ---
 
-## 🔬 Detailed Competency Deconstruction
-
-### 1. 🐧 Linux Essentials — Cisco Networking Academy
-* **Issuing Authority:** Cisco Networking Academy (NDG / Skills for All)
-* **Curriculum Alignment:** Phase 01: Foundations & Systems Architecture (Month 01)
-* **Core Competencies Verified:**
-  * Operating system architecture, kernel-userland separation, and the Filesystem Hierarchy Standard (FHS).
-  * Command-line interface (CLI) mastery, text stream manipulation (`grep`, `awk`, `sed`), and I/O redirection pipelines.
-  * Discretionary Access Control (DAC), file permission calculation (`chmod`/`chown`), and process lifecycle management.
-  * System security boundaries, basic shell automation, and administrative account controls.
-* **Direct File Links:** [Download Certificate PDF](./pdfs/cisco-linux-essentials.pdf) | [View Badge](./badges/cisco-linux-essentials.png)
-
----
-
-### 2. 🌐 HTML / Web Foundations — Cisco Networking Academy
-* **Issuing Authority:** Cisco Networking Academy
-* **Curriculum Alignment:** Phase 01: Applied Cryptography & Web Foundations (Month 05 & 07)
-* **Core Competencies Verified:**
-  * Semantic HTML5 document architecture and Document Object Model (DOM) tree parsing.
-  * Web application client-server interaction models, form input handling, and HTTP request structures.
-  * Foundational client-side security architecture: Cross-Origin Resource Sharing (CORS) and Same-Origin Policy (SOP) boundaries.
-  * Understanding untrusted user input vectors inside web frontends.
-* **Direct File Links:** [Download Certificate PDF](./pdfs/cisco-html-essentials.pdf) | [View Badge](./badges/cisco-html-essentials.png)
-
----
-
-<!-- 
-========================================================================
-📋 FUTURE CREDENTIAL TEMPLATE (Copy & Paste for new certificates)
-========================================================================
-### [NUMBER]. [ICON] [CREDENTIAL NAME] — [ISSUING BODY]
-* **Issuing Authority:** [e.g., Offensive Security, PortSwigger, Cisco, SANS]
-* **Curriculum Alignment:** [e.g., Phase 02 / Month 12: Binary Exploitation]
-* **Core Competencies Verified:**
-  * [Competency 1]
-  * [Competency 2]
-  * [Competency 3]
-* **Direct File Links:** [Download Certificate PDF](./pdfs/FILENAME.pdf) | [View Badge](./badges/FILENAME.png)
-========================================================================
--->
 
 ## 🔒 Cryptographic File Integrity (SHA-256 Checksums)
 

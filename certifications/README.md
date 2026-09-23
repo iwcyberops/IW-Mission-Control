@@ -30,34 +30,22 @@ Every credential documented in this ledger is aligned with a specific operationa
         <img src="./badges/cisco-linux-essentials.png" width="140" height="140" alt="Cisco Linux Essentials Badge" style="border-radius: 12px; transition: transform .2s;" />
       </a>
       <br>
+      <a href="https://www.credly.com/badges/a0f5cb68-36b5-47f2-9ad5-8ff4ace5af8d/public_url">Verify</a>
+      <br>
       <b>Linux Essentials</b><br>
       <sub>Cisco Networking Academy</sub><br>
-      <img src="https://img.shields.io/badge/STATUS-VERIFIED-00ff41?style=flat-square" />
-    </td>
-    
-        <!-- BADGE 02: CISCO HTML / WEB FOUNDATIONS -->    
-  <td align="center" width="220" valign="top">
+    </td>  <!-- 2nd badge - HTML Essentials -->
+    <td align="center" width="220" valign="top">
       <a href="./pdfs/cisco-html-essentials.pdf">
         <img src="./badges/cisco-html-essentials.png" width="140" height="140" alt="Cisco HTML Essentials Badge" style="border-radius: 12px; transition: transform .2s;" />
       </a>
       <br>
+      <a href="https://www.credly.com/badges/69f53ac3-699a-4a3a-9412-f3202689e26d/public_url">Verify</a>
+      <br>
       <b>HTML Web Foundations</b><br>
       <sub>Cisco Networking Academy</sub><br>
-      <img src="https://img.shields.io/badge/STATUS-VERIFIED-00ff41?style=flat-square" />
     </td>
 
-    <!-- 🟢 FUTURE BADGE PLACEHOLDER 03 (Uncomment & edit when new badge is earned) -->
-    <!--
-    <td align="center" width="220" valign="top">
-      <a href="./pdfs/NEW_CERTIFICATE.pdf">
-        <img src="./badges/NEW_BADGE.png" width="140" height="140" alt="New Badge" style="border-radius: 12px;" />
-      </a>
-      <br>
-      <b>Credential Name</b><br>
-      <sub>Issuing Body</sub><br>
-      <img src="https://img.shields.io/badge/STATUS-VERIFIED-00ff41?style=flat-square" />
-    </td>
-    -->
 
   </tr>
 </table>

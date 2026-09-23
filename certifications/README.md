@@ -26,8 +26,8 @@ Every credential documented in this ledger is aligned with a specific operationa
   <tr>
     <!-- BADGE 01: CISCO LINUX ESSENTIALS -->
     <td align="center" width="220" valign="top">
-      <a href="./pdfs/cisco-linux-essentials.pdf">
-        <img src="./badges/cisco-linux-essentials.png" width="140" height="140" alt="Cisco Linux Essentials Badge" style="border-radius: 12px; transition: transform .2s;" />
+      <a href="./01-cisco-linux-essentials/cisco-linux-essentials.pdf">
+        <img src="./01-cisco-linux-essentials/badge.png" width="190" height="190" alt="Cisco Linux Essentials Badge" style="border-radius: 12px; transition: transform .2s;" />
       </a>
       <br>
       <a href="https://www.credly.com/badges/a0f5cb68-36b5-47f2-9ad5-8ff4ace5af8d/public_url">Verify</a>
@@ -36,8 +36,8 @@ Every credential documented in this ledger is aligned with a specific operationa
       <sub>Cisco Networking Academy</sub><br>
     </td>  <!-- 2nd badge - HTML Essentials -->
     <td align="center" width="220" valign="top">
-      <a href="./pdfs/cisco-html-essentials.pdf">
-        <img src="./badges/cisco-html-essentials.png" width="140" height="140" alt="Cisco HTML Essentials Badge" style="border-radius: 12px; transition: transform .2s;" />
+      <a href="./02-cisco-html-essentials/cisco-html-essentials.pdf">
+        <img src="./02-cisco-html-essentials/badge.png" width="190" height="190" alt="Cisco HTML Essentials Badge" style="border-radius: 12px; transition: transform .2s;" />
       </a>
       <br>
       <a href="https://www.credly.com/badges/69f53ac3-699a-4a3a-9412-f3202689e26d/public_url">Verify</a>

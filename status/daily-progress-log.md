@@ -49,8 +49,8 @@
 | Time Allocation | Cognitive Block | Focus & Execution Details |
 | :--- | :--- | :--- |
 | **5.0 Hours** | **Block 1: Shell Scripting** | Shell scripting > Chatgpt. |
-| **3.0 Hour** | **Block 5: Documentation** | Documented Shell scripting notes and posted HTML and Linux Certificates on social accounts. Committed to Git. |
-| **1.0 Hour** | **Block 6: Communication and Typing** | Practice Typing on monkeytype.com site. Practiced English Communication with AI. |
+| **3.0 Hour** | **Block 2: Documentation** | Documented Shell scripting notes and posted HTML and Linux Certificates on social accounts. Committed to Git. |
+| **1.0 Hour** | **Block 3: Communication and Typing** | Practice Typing on monkeytype.com site. Practiced English Communication with AI. |
 
 ---
 

@@ -30,7 +30,7 @@ Every credential documented in this ledger is aligned with a specific operationa
         <img src="./01-cisco-linux-essentials/badge.png" width="190" height="190" alt="Cisco Linux Essentials Badge" style="border-radius: 12px; transition: transform .2s;" />
       </a>
       <br>
-      <a href="https://www.credly.com/badges/a0f5cb68-36b5-47f2-9ad5-8ff4ace5af8d/public_url">Verify</a>
+      <a href="https://www.credly.com/badges/a0f5cb68-36b5-47f2-9ad5-8ff4ace5af8d/public_url" target="_blank">Verify</a>
       <br>
       <b>Linux Essentials</b><br>
       <sub>Cisco Networking Academy</sub><br>
@@ -40,7 +40,7 @@ Every credential documented in this ledger is aligned with a specific operationa
         <img src="./02-cisco-html-essentials/badge.png" width="190" height="190" alt="Cisco HTML Essentials Badge" style="border-radius: 12px; transition: transform .2s;" />
       </a>
       <br>
-      <a href="https://www.credly.com/badges/69f53ac3-699a-4a3a-9412-f3202689e26d/public_url">Verify</a>
+      <a href="https://www.credly.com/badges/69f53ac3-699a-4a3a-9412-f3202689e26d/public_url" target="_blank">Verify</a>
       <br>
       <b>HTML Web Foundations</b><br>
       <sub>Cisco Networking Academy</sub><br>

@@ -11,8 +11,8 @@
 | :--- | :--- |
 | **Current Phase** | Phase 01: Foundations & Systems Architecture |
 | **Current Month** | Month 01: Linux Kernel Interface, Shell & Git |
-| **Current Day** | Day 024 / 1260 |
-| **Current Streak** | 🔥 24 Day |
+| **Current Day** | Day 025 / 1260 |
+| **Current Streak** | 🔥 25 Day |
 | **Active Project** | Automated Lab Deployment Engine |
 
 ---
@@ -50,11 +50,10 @@
 | :--- | :--- | :--- |
 | **5.0 Hours** | **Block 1: Shell Scripting** | Advanced Topics > Shell scripting > Chatgpt. |
 | **2.0 Hours** | **Block 2: C Programming** | C Language Basics > AI. |
-| **2.0 Hour** | **Block 3: Documentation** | Documented Shell scripting notes on Github & Posts to social accounts. |
+| **2.0 Hour** | **Block 3: Documentation** | Documented Shell scripting notes on Github & Posts to social accounts (Substack, LinkedIn, Twitter & Medium). |
 | **1.0 Hour** | **Block 4: Communication and Typing** | Practice Typing on monkeytype.com. Practiced English Communication. |
 
 ---
-
 
 ### 🗓️ 2026-09-24 — Day 024 Month 01 / Phase 01
 * **Total Dedicated Hours:** `08.0 Hours`

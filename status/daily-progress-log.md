@@ -13,7 +13,7 @@
 | **Current Month** | Month 01: Linux Kernel Interface, Shell & Git |
 | **Current Day** | Day 027 / 1260 |
 | **Current Streak** | 🔥 27 Day |
-| **Active Project** | Automated Lab Deployment Engine |
+| **Active Project** | Automated Lab Deployment Engine | Linux Files Organizer |
 
 ---
 

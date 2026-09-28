@@ -11,8 +11,8 @@
 | :--- | :--- |
 | **Current Phase** | Phase 01: Foundations & Systems Architecture |
 | **Current Month** | Month 01: Linux Kernel Interface, Shell & Git |
-| **Current Day** | Day 026 / 1260 |
-| **Current Streak** | 🔥 26 Day |
+| **Current Day** | Day 027 / 1260 |
+| **Current Streak** | 🔥 27 Day |
 | **Active Project** | Automated Lab Deployment Engine |
 
 ---
@@ -41,6 +41,20 @@
 ---
 
 ## 📜 Daily Execution Logs
+
+### 🗓️ 2026-09-27 — Day 027 Month 01 / Phase 01
+* **Total Dedicated Hours:** `13.0 Hours`
+* **Daily Status:** ✅ Completed
+
+| Time Allocation | Cognitive Block | Focus & Execution Details |
+| :--- | :--- | :--- |
+| **5.0 Hours** | **Block 1: Shell Scripting** | Advanced Topics > Shell scripting > Chatgpt. |
+| **3.0 Hours** | **Block 2: C Programming** | C Language Basics & Pointers > AI. |
+| **3.0 Hours** | **Block 3: Shell Scripting Project** | Create A Files Organizer Project and push on Github. |
+| **1.0 Hour** | **Block 4: Documentation** | Documented Shell scripting & Psychology book's notes on Github. |
+| **1.0 Hour** | **Block 5: Communication and Typing** | Practice Typing on monkeytype.com. Practiced English Communication. |
+
+---
 
 ### 🗓️ 2026-09-26 — Day 026 Month 01 / Phase 01
 * **Total Dedicated Hours:** `10.0 Hours`

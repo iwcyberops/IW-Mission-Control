@@ -13,7 +13,7 @@
 | **Current Month** | Month 01: Linux Kernel Interface, Shell & Git |
 | **Current Day** | Day 029 / 1260 |
 | **Current Streak** | 🔥 29 Day |
-| **Active Project** | Automated Lab Deployment Engine | Text and Words Analyzer |
+| **Active Project** | Automated Lab Deployment Engine \ Text and Words Analyzer |
 
 ---
 

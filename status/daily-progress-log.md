@@ -1,7 +1,7 @@
 # 📈 Daily Research & Execution Log — IW Cyber Ops
 
 > **System Operator:** Muhammad Imran (`@iwcyberops`)  
-> **Mission:** 42-Month Apex Hacker & Vulnerability Research Blueprint (13 Hours/Day Engine)
+> **Mission:** 42-Month Apex Hacker & Vulnerability Research Blueprint (12 Hours/Day Engine)
 
 ---
 
@@ -42,17 +42,17 @@
 
 ## 📜 Daily Execution Logs
 
-<!--
-### 🗓️ 2026-10-03 — Day 032 Month 02 / Phase 01
-* **Total Dedicated Hours:** `11.0 Hours`
+
+### 🗓️ 2026-10-02 — Day 032 Month 02 / Phase 01
+* **Total Dedicated Hours:** `10.0 Hours`
 * **Daily Status:** ✅ Completed
 
 | Time Allocation | Cognitive Block | Focus & Execution Details |
 | :--- | :--- | :--- |
-| **5.0 Hours** | **Block 1: Shell Scripting** | Advanced Topics > End Scripting Concepts > Deepseek. |
-| **3.0 Hours** | **Block 2: Shell Scripting Project** | System Information Reporter Project > shell script. |
-| **2.0 Hour** | **Block 3: Documentation** | Documented Shell scripting & Psychology book's notes on Github. Posted Tool Creation and Usage Screenshots on social profiles. |
+| **5.0 Hours** | **Block 1: Networking Basics** | Started with Networking Basics Networking Devices and their working > AI. |
+| **1.0 Hours** | **Block 2: Shell Scripting Project** | System Information Reporter Project Improved Version > Push to Github IW-Arsenal Repo. |
+| **1.0 Hours** | **Block 2: C & Assembly Internals** | Intro to Cpu Instructions, General Purpose Registers and Memory Classifications. |
+| **2.0 Hour** | **Block 3: Documentation** | Documented Psychology book's notes on Github. Posted Tool Creation and Usage Screenshots on social profiles. |
 | **1.0 Hour** | **Block 4: Communication and Typing** | Practice Typing on monkeytype.com. Practiced English Communication. |
 
 ---
--->

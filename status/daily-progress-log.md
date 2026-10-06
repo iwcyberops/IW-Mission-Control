@@ -11,8 +11,8 @@
 | :--- | :--- |
 | **Current Phase** | Phase 01: Foundations & Systems Architecture |
 | **Current Month** | Month 02: Network Protocols, Packet Dissection & Traffic Engineering |
-| **Current Day** | Day 034 / 1260 |
-| **Current Streak** | 🔥 34 Day |
+| **Current Day** | Day 035 / 1260 |
+| **Current Streak** | 🔥 35 Day |
 | **Active Project** | Custom Python Raw Socket Sniffer |
 
 ---
@@ -41,6 +41,19 @@
 
 
 ## 📜 Daily Execution Logs
+
+### 🗓️ 2026-10-05 — Day 035 Month 02 / Phase 01
+* **Total Dedicated Hours:** `10.0 Hours`
+* **Daily Status:** ✅ Completed
+
+| Time Allocation | Cognitive Block | Focus & Execution Details |
+| :--- | :--- | :--- |
+| **7.0 Hours** | **Block 1: CPU & Memory Internals** | Understand how CPU registers work and how the data-fetching chain works. |
+| **1.0 Hours** | **Block 2: C & Assembly Internals** | CPU basic Instructions, General Purpose Registers and Memory Classifications. |
+| **1.0 Hour** | **Block 3: Documentation** | Documented Psychology book's notes on Github. |
+| **1.0 Hour** | **Block 4: Communication and Typing** | Practice Typing on monkeytype.com. Practiced English Communication. |
+
+---
 
 ### 🗓️ 2026-10-04 — Day 034 | Month 01 / Phase 01
 * **Total Dedicated Hours:** `13.0 Hours`

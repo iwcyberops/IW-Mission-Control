@@ -11,8 +11,8 @@
 | :--- | :--- |
 | **Current Phase** | Phase 01: Foundations & Systems Architecture |
 | **Current Month** | Month 02: Network Protocols, Packet Dissection & Traffic Engineering |
-| **Current Day** | Day 039 / 1260 |
-| **Current Streak** | 🔥 39 Day |
+| **Current Day** | Day 040 / 1260 |
+| **Current Streak** | 🔥 40 Day |
 | **Active Project** | Custom Python Raw Socket Sniffer |
 
 ---
@@ -42,6 +42,18 @@
 
 ## 📜 Daily Execution Logs
 
+### 🗓️ 2026-10-10 — Day 040 Month 02 / Phase 01
+* **Total Dedicated Hours:** `10.0 Hours`
+* **Daily Status:** ✅ Completed
+
+| Time Allocation | Cognitive Block | Focus & Execution Details |
+| :--- | :--- | :--- |
+| **7.0 Hours** | **Block 1: Networking** | Networking > Layer 1 Basics > AI. |
+| **2.0 Hour** | **Block 2: Documentation** | Documented "What Everybody is saying" Psychology book's notes and Networking notes on Github + Social Accounts poting. |
+| **1.0 Hour** | **Block 3: Communication and Typing** | Practice Typing on monkeytype.com. Practiced English Communication. |
+
+---
+
 ### 🗓️ 2026-10-09 — Day 039 Month 02 / Phase 01
 * **Total Dedicated Hours:** `10.0 Hours`
 * **Daily Status:** ✅ Completed
@@ -60,7 +72,7 @@
 
 | Time Allocation | Cognitive Block | Focus & Execution Details |
 | :--- | :--- | :--- |
-| **5.0 Hours** | **Block 2: Networking** | Basic Networking Layer 2 Attack types & Pracitce. |
+| **5.0 Hours** | **Block 1: Networking** | Basic Networking Layer 2 Attack types & Pracitce. |
 | **1.0 Hours** | **Block 2: Social Accounts Posting** | Posted 3rd Tool's Screenshots and usage info on social accounts. |
 | **2.0 Hour** | **Block 3: Documentation** | Documented "What Everybody is saying" Psychology book's notes and Networking notes on Github. |
 | **1.0 Hour** | **Block 4: Communication and Typing** | Practice Typing on monkeytype.com. Practiced English Communication. |
@@ -73,9 +85,9 @@
 
 | Time Allocation | Cognitive Block | Focus & Execution Details |
 | :--- | :--- | :--- |
-| **4.0 Hours** | **Block 2: Networking** | Basic Networking Layer 2 Attack types. |
-| **1.0 Hour** | **Block 3: Documentation** | Documented "What Everybody is saying" Psychology book's notes and Networking notes on Github. |
-| **1.0 Hour** | **Block 4: Communication and Typing** | Practice Typing on monkeytype.com. Practiced English Communication. |
+| **4.0 Hours** | **Block 1: Networking** | Basic Networking Layer 2 Attack types. |
+| **1.0 Hour** | **Block 2: Documentation** | Documented "What Everybody is saying" Psychology book's notes and Networking notes on Github. |
+| **1.0 Hour** | **Block 3: Communication and Typing** | Practice Typing on monkeytype.com. Practiced English Communication. |
 
 ---
 
@@ -87,9 +99,9 @@
 | :--- | :--- | :--- |
 | **2.0 Hours** | **Block 1: CPU & Memory Internals** | Understand how CPU registers work and how the data-fetching chain works. |
 | **4.0 Hours** | **Block 2: Networking** | Basic Networking Layer 2 Attack types. |
-| **1.0 Hours** | **Block 2: C & Assembly Internals** | CPU basic Instructions, General Purpose Registers and Memory Classifications. |
-| **1.0 Hour** | **Block 3: Documentation** | Documented "What Everybody is saying" Psychology book's notes on Github. |
-| **1.0 Hour** | **Block 4: Communication and Typing** | Practice Typing on monkeytype.com. Practiced English Communication. |
+| **1.0 Hours** | **Block 3: C & Assembly Internals** | CPU basic Instructions, General Purpose Registers and Memory Classifications. |
+| **1.0 Hour** | **Block 4: Documentation** | Documented "What Everybody is saying" Psychology book's notes on Github. |
+| **1.0 Hour** | **Block 5: Communication and Typing** | Practice Typing on monkeytype.com. Practiced English Communication. |
 
 ---
 

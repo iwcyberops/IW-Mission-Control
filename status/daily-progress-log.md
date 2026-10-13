@@ -61,10 +61,10 @@
 
 | Time Allocation | Cognitive Block | Focus & Execution Details |
 | :--- | :--- | :--- |
-| **2.0 Hour** | **Block 3: Social Media Management:** | Take Screenshots of Script and Create posts for social media accounts.  |
-| **2.0 Hour** | **Block 5: Github Management:** | Committed psychology book's notes and Networking Notes on github. |
-| **2.0 Hour** | **Block 5: Github Management:** | Learn Some more things about Layer 1 Physical Layer. |
-| **1.0 Hour** | **Block 6: Communication and Typing** | Typing Practice & Test and Practiced English speaking. |
+| **2.0 Hour** | **Block 1: Social Media Management:** | Take Screenshots of Script and Create posts for social media accounts.  |
+| **2.0 Hour** | **Block 2: Github Management:** | Committed psychology book's notes and Networking Notes on github. |
+| **2.0 Hour** | **Block 3: Github Management:** | Learn Some more things about Layer 1 Physical Layer. |
+| **1.0 Hour** | **Block 4: Communication and Typing** | Typing Practice & Test and Practiced English speaking. |
 
 ---
 

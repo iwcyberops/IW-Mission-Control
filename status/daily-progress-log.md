@@ -11,8 +11,8 @@
 | :--- | :--- |
 | **Current Phase** | Phase 01: Foundations & Systems Architecture |
 | **Current Month** | Month 02: Network Protocols, Packet Dissection & Traffic Engineering |
-| **Current Day** | Day 044 / 1260 |
-| **Current Streak** | 🔥 44 Day |
+| **Current Day** | Day 045 / 1260 |
+| **Current Streak** | 🔥 45 Day |
 | **Active Project** | Custom Python Raw Socket Sniffer |
 
 ---

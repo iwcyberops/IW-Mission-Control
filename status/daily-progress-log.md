@@ -11,8 +11,8 @@
 | :--- | :--- |
 | **Current Phase** | Phase 01: Foundations & Systems Architecture |
 | **Current Month** | Month 02: Network Protocols, Packet Dissection & Traffic Engineering |
-| **Current Day** | Day 048 / 1260 |
-| **Current Streak** | 🔥 48 Day |
+| **Current Day** | Day 052 / 1260 |
+| **Current Streak** | 🔥 52 Day |
 | **Active Project** | Custom Python Raw Socket Sniffer |
 
 ---
@@ -41,6 +41,19 @@
 
 
 ## 📜 Daily Execution Logs
+
+### 🗓️ 2026-11-05 — Day 052 Month 02 / Phase 01
+* **Total Dedicated Hours:** `11.0 Hours`
+* **Daily Status:** ✅ Completed
+
+| Time Allocation | Cognitive Block | Focus & Execution Details |
+| :--- | :--- | :--- |
+| **6.0 Hours** | **Block 1: Networking** | Networking -> Kernel Layers -> NIC basics. |
+| **2.0 Hour** | **Block 2: Documentation** | Documented Documents Networking notes on Github. Uploaded content on social media accounts. |
+| **2.0 Hours** | **Block 3: Networking** | C programming Basics. |
+| **1.0 Hour** | **Block 4: Communication and Typing** | Practice Typing on monkeytype.com. Practiced English Communication. |
+
+---
 
 ### 🗓️ 2026-11-04 — Day 051 Month 02 / Phase 01
 * **Total Dedicated Hours:** `11.0 Hours`
